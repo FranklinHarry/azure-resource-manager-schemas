@@ -1062,6 +1062,12 @@
               "$ref": "https://schema.management.azure.com/schemas/2026-04-01-preview/Microsoft.AzureStackHCI.json#/managementGroup_resourceDefinitions/virtualMachineInstances_guestAgents"
             },
             {
+              "$ref": "https://schema.management.azure.com/schemas/2026-03-17-preview/Microsoft.BillingTrust.json#/managementGroup_resourceDefinitions/assessments"
+            },
+            {
+              "$ref": "https://schema.management.azure.com/schemas/2026-03-17-preview/Microsoft.BillingTrust.json#/managementGroup_resourceDefinitions/assessments_rules"
+            },
+            {
               "$ref": "https://schema.management.azure.com/schemas/2017-11-11-preview/Microsoft.Blueprint.json#/managementGroup_resourceDefinitions/blueprints"
             },
             {
@@ -1356,6 +1362,12 @@
               "$ref": "https://schema.management.azure.com/schemas/2025-08-01/Microsoft.Edge.configurationmanager.json#/managementGroup_resourceDefinitions/schemaReferences"
             },
             {
+              "$ref": "https://schema.management.azure.com/schemas/2025-08-15-preview/Microsoft.Edge.configurationmanager.json#/managementGroup_resourceDefinitions/schemaReferences"
+            },
+            {
+              "$ref": "https://schema.management.azure.com/schemas/2026-03-01/Microsoft.Edge.configurationmanager.json#/managementGroup_resourceDefinitions/schemaReferences"
+            },
+            {
               "$ref": "https://schema.management.azure.com/schemas/2025-06-01/Microsoft.Edge.configurations.json#/managementGroup_resourceDefinitions/configurationReferences"
             },
             {
@@ -1581,6 +1593,12 @@
               "$ref": "https://schema.management.azure.com/schemas/2025-05-01-preview/Microsoft.Mission.json#/managementGroup_resourceDefinitions/approvals"
             },
             {
+              "$ref": "https://schema.management.azure.com/schemas/2025-11-01-preview/Microsoft.Mission.json#/managementGroup_resourceDefinitions/approvals"
+            },
+            {
+              "$ref": "https://schema.management.azure.com/schemas/2026-03-01-preview/Microsoft.Mission.json#/managementGroup_resourceDefinitions/approvals"
+            },
+            {
               "$ref": "https://schema.management.azure.com/schemas/2022-01-01/Microsoft.Network.NRP.json#/managementGroup_resourceDefinitions/networkManagerConnections"
             },
             {
@@ -1642,6 +1660,9 @@
             },
             {
               "$ref": "https://schema.management.azure.com/schemas/2025-05-01/Microsoft.Network.NRP.json#/managementGroup_resourceDefinitions/networkManagerConnections"
+            },
+            {
+              "$ref": "https://schema.management.azure.com/schemas/2025-07-01/Microsoft.Network.NRP.json#/managementGroup_resourceDefinitions/networkManagerConnections"
             },
             {
               "$ref": "https://schema.management.azure.com/schemas/2018-07-01-preview/Microsoft.PolicyInsights.json#/managementGroup_resourceDefinitions/remediations"

@@ -1043,6 +1043,18 @@
                   "$ref": "https://schema.management.azure.com/schemas/2025-12-01-preview/Microsoft.BillingBenefits.json#/tenant_resourceDefinitions/savingsPlanOrderAliases"
                 },
                 {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-06-01/Microsoft.BillingBenefits.json#/tenant_resourceDefinitions/reservationOrderAliases"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-06-01/Microsoft.BillingBenefits.json#/tenant_resourceDefinitions/savingsPlanOrderAliases"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-03-17-preview/Microsoft.BillingTrust.json#/tenant_resourceDefinitions/assessments"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-03-17-preview/Microsoft.BillingTrust.json#/tenant_resourceDefinitions/assessments_rules"
+                },
+                {
                   "$ref": "https://schema.management.azure.com/schemas/2018-11-01-preview/Microsoft.Blueprint.json#/tenant_resourceDefinitions/blueprintAssignments"
                 },
                 {
@@ -1344,6 +1356,12 @@
                 },
                 {
                   "$ref": "https://schema.management.azure.com/schemas/2025-08-01/Microsoft.Edge.configurationmanager.json#/tenant_resourceDefinitions/schemaReferences"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2025-08-15-preview/Microsoft.Edge.configurationmanager.json#/tenant_resourceDefinitions/schemaReferences"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-03-01/Microsoft.Edge.configurationmanager.json#/tenant_resourceDefinitions/schemaReferences"
                 },
                 {
                   "$ref": "https://schema.management.azure.com/schemas/2025-06-01/Microsoft.Edge.configurations.json#/tenant_resourceDefinitions/configurationReferences"
@@ -1775,6 +1793,12 @@
                   "$ref": "https://schema.management.azure.com/schemas/2025-05-01-preview/Microsoft.Mission.json#/tenant_resourceDefinitions/approvals"
                 },
                 {
+                  "$ref": "https://schema.management.azure.com/schemas/2025-11-01-preview/Microsoft.Mission.json#/tenant_resourceDefinitions/approvals"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-03-01-preview/Microsoft.Mission.json#/tenant_resourceDefinitions/approvals"
+                },
+                {
                   "$ref": "https://schema.management.azure.com/schemas/2021-05-01-preview/Microsoft.Network.NRP.json#/tenant_resourceDefinitions/managementGroups_networkManagerConnections"
                 },
                 {
@@ -1821,6 +1845,9 @@
                 },
                 {
                   "$ref": "https://schema.management.azure.com/schemas/2025-04-01-preview/Microsoft.Portal.json#/tenant_resourceDefinitions/tenantConfigurations"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-04-01/Microsoft.Portal.json#/tenant_resourceDefinitions/tenantConfigurations"
                 },
                 {
                   "$ref": "https://schema.management.azure.com/schemas/2024-04-01/Microsoft.PortalServices.copilotSettings.json#/tenant_resourceDefinitions/copilotSettings"
@@ -2496,6 +2523,24 @@
                 },
                 {
                   "$ref": "https://schema.management.azure.com/schemas/2026-01-26-preview/PaloAltoNetworks.Cloudngfw.json#/tenant_resourceDefinitions/globalRulestacks_preRules"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-05-11-preview/PaloAltoNetworks.Cloudngfw.json#/tenant_resourceDefinitions/globalRulestacks"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-05-11-preview/PaloAltoNetworks.Cloudngfw.json#/tenant_resourceDefinitions/globalRulestacks_certificates"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-05-11-preview/PaloAltoNetworks.Cloudngfw.json#/tenant_resourceDefinitions/globalRulestacks_fqdnlists"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-05-11-preview/PaloAltoNetworks.Cloudngfw.json#/tenant_resourceDefinitions/globalRulestacks_postRules"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-05-11-preview/PaloAltoNetworks.Cloudngfw.json#/tenant_resourceDefinitions/globalRulestacks_prefixlists"
+                },
+                {
+                  "$ref": "https://schema.management.azure.com/schemas/2026-05-11-preview/PaloAltoNetworks.Cloudngfw.json#/tenant_resourceDefinitions/globalRulestacks_preRules"
                 }
               ]
             }
